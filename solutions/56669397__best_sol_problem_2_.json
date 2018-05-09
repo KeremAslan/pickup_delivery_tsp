@@ -1,0 +1,256 @@
+{
+    "route": [
+        {
+            "label": "init_loc",
+            "lat": 1.39397,
+            "lon": 0.21225,
+            "fulfillment_id": "null"
+        },
+        {
+            "label": "store-4257",
+            "lat": 1.39219,
+            "lon": 0.21423,
+            "fulfillment_id": "42571198616"
+        },
+        {
+            "label": "store-3705",
+            "lat": 1.38325,
+            "lon": 0.2163,
+            "fulfillment_id": "37051340199"
+        },
+        {
+            "label": "42571198616",
+            "lat": 1.37906,
+            "lon": 0.20239,
+            "fulfillment_id": "42571198616"
+        },
+        {
+            "label": "37051340199",
+            "lat": 1.39683,
+            "lon": 0.19967,
+            "fulfillment_id": "37051340199"
+        },
+        {
+            "label": "store-937",
+            "lat": 1.39585,
+            "lon": 0.20755,
+            "fulfillment_id": "9371648941"
+        },
+        {
+            "label": "store-4257",
+            "lat": 1.39219,
+            "lon": 0.21423,
+            "fulfillment_id": "42571151370"
+        },
+        {
+            "label": "9371648941",
+            "lat": 1.39888,
+            "lon": 0.23998,
+            "fulfillment_id": "9371648941"
+        },
+        {
+            "label": "42571151370",
+            "lat": 1.40617,
+            "lon": 0.23129,
+            "fulfillment_id": "42571151370"
+        },
+        {
+            "label": "store-14001",
+            "lat": 1.39205,
+            "lon": 0.22439,
+            "fulfillment_id": "140012161105"
+        },
+        {
+            "label": "store-8909",
+            "lat": 1.38405,
+            "lon": 0.21976,
+            "fulfillment_id": "89092092402"
+        },
+        {
+            "label": "store-4026",
+            "lat": 1.37208,
+            "lon": 0.20619,
+            "fulfillment_id": "40261924722"
+        },
+        {
+            "label": "89092092402",
+            "lat": 1.39116,
+            "lon": 0.20202,
+            "fulfillment_id": "89092092402"
+        },
+        {
+            "label": "140012161105",
+            "lat": 1.39592,
+            "lon": 0.21108,
+            "fulfillment_id": "140012161105"
+        },
+        {
+            "label": "store-5298",
+            "lat": 1.39264,
+            "lon": 0.21795,
+            "fulfillment_id": "52981210001"
+        },
+        {
+            "label": "40261924722",
+            "lat": 1.38799,
+            "lon": 0.1919,
+            "fulfillment_id": "40261924722"
+        },
+        {
+            "label": "52981210001",
+            "lat": 1.40484,
+            "lon": 0.2164,
+            "fulfillment_id": "52981210001"
+        },
+        {
+            "label": "store-3263",
+            "lat": 1.40623,
+            "lon": 0.22325,
+            "fulfillment_id": "32631603446"
+        },
+        {
+            "label": "32631603446",
+            "lat": 1.40447,
+            "lon": 0.21778,
+            "fulfillment_id": "32631603446"
+        },
+        {
+            "label": "store-4257",
+            "lat": 1.39219,
+            "lon": 0.21423,
+            "fulfillment_id": "4257974944"
+        },
+        {
+            "label": "4257974944",
+            "lat": 1.38146,
+            "lon": 0.21393,
+            "fulfillment_id": "4257974944"
+        },
+        {
+            "label": "store-2090",
+            "lat": 1.37135,
+            "lon": 0.21671,
+            "fulfillment_id": "20901693586"
+        },
+        {
+            "label": "store-4590",
+            "lat": 1.37088,
+            "lon": 0.21625,
+            "fulfillment_id": "45901411704"
+        },
+        {
+            "label": "20901693586",
+            "lat": 1.38139,
+            "lon": 0.21592,
+            "fulfillment_id": "20901693586"
+        },
+        {
+            "label": "store-3357",
+            "lat": 1.382,
+            "lon": 0.21437,
+            "fulfillment_id": "33571040199"
+        },
+        {
+            "label": "45901411704",
+            "lat": 1.39621,
+            "lon": 0.21663,
+            "fulfillment_id": "45901411704"
+        },
+        {
+            "label": "store-6551",
+            "lat": 1.39175,
+            "lon": 0.21536,
+            "fulfillment_id": "65511583964"
+        },
+        {
+            "label": "33571040199",
+            "lat": 1.39526,
+            "lon": 0.2087,
+            "fulfillment_id": "33571040199"
+        },
+        {
+            "label": "store-3705",
+            "lat": 1.38325,
+            "lon": 0.2163,
+            "fulfillment_id": "37051841160"
+        },
+        {
+            "label": "65511583964",
+            "lat": 1.39596,
+            "lon": 0.21419,
+            "fulfillment_id": "65511583964"
+        },
+        {
+            "label": "store-4197",
+            "lat": 1.37947,
+            "lon": 0.20745,
+            "fulfillment_id": "41971063865"
+        },
+        {
+            "label": "37051841160",
+            "lat": 1.39123,
+            "lon": 0.21842,
+            "fulfillment_id": "37051841160"
+        },
+        {
+            "label": "41971063865",
+            "lat": 1.38872,
+            "lon": 0.22074,
+            "fulfillment_id": "41971063865"
+        },
+        {
+            "label": "store-4087",
+            "lat": 1.40129,
+            "lon": 0.22897,
+            "fulfillment_id": "40871110112"
+        },
+        {
+            "label": "40871110112",
+            "lat": 1.39929,
+            "lon": 0.23661,
+            "fulfillment_id": "40871110112"
+        },
+        {
+            "label": "store-3357",
+            "lat": 1.382,
+            "lon": 0.21437,
+            "fulfillment_id": "33571110140"
+        },
+        {
+            "label": "store-3412",
+            "lat": 1.38592,
+            "lon": 0.22096,
+            "fulfillment_id": "34121104928"
+        },
+        {
+            "label": "34121104928",
+            "lat": 1.40357,
+            "lon": 0.22127,
+            "fulfillment_id": "34121104928"
+        },
+        {
+            "label": "store-3369",
+            "lat": 1.41062,
+            "lon": 0.22894,
+            "fulfillment_id": "33691644408"
+        },
+        {
+            "label": "33571110140",
+            "lat": 1.37672,
+            "lon": 0.22255,
+            "fulfillment_id": "33571110140"
+        },
+        {
+            "label": "33691644408",
+            "lat": 1.39956,
+            "lon": 0.21836,
+            "fulfillment_id": "33691644408"
+        },
+        {
+            "label": "end_loc",
+            "lat": 1.39397,
+            "lon": 0.21225,
+            "fulfillment_id": "null"
+        }
+    ]
+}
